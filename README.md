@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Terrence!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📄 Certifications</h2>
+
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/2L6WLY6E3QXR)
+
+
 
 <!--
 **rosewoodcloud/rosewoodcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
